@@ -29,13 +29,14 @@ pip install -r requirements.txt
 
 ## 2. Project Structure
 Create the following folder and file structure:
-
+```
 adk-streaming/               # Project folder
 ├── app/                     # Web app folder
 │   └── .env                 # Gemini API key file
 └── google_search_agent/     # Agent logic folder
     ├── __init__.py          # Python package init
     └── agent.py             # Agent definition
+```
 
 ## 3. Set Up the Platform
 Choose one of the following platforms :
